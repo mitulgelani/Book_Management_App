@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315644498658",
+    "project_id": "minutes-summary",
+    "storage_bucket": "minutes-summary.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315644498658:android:1c45f1019b48c932a304bb",
+        "android_client_info": {
+          "package_name": "com.example.minutes_summary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKzfYdDXrFizaYqBgy_cDkP9Kxy_mFils"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
